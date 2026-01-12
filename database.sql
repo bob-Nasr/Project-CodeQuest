@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS mobprog_codequest;
+USE mobprog_codequest;
+
 CREATE TABLE
     user (
         userId INT AUTO_INCREMENT PRIMARY KEY,
