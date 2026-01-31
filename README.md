@@ -1,6 +1,8 @@
 # Project-CodeQuest
 Course: Mobile Programming 
+
 University: Lebanese University - Faculty of Engineering II
+
 Year: 2025 - 2026
 
 The project uses Flutter as frontend, with PHP scripts accessing database hosted locally with Wampserver.
